@@ -67,6 +67,7 @@ plt.tight_layout()
 plt.show()
 
 ####################################################################
+# perc separation
 x, sr = lb.load('/Users/alkis/Desktop/Python/Game Over-S.P.E.C.T.R.E. MASTER.wav', offset=40, duration=10)
 # Compute the short-time Fourier transform of x
 D = librosa.stft(x)
