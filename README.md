@@ -1,6 +1,6 @@
 # diplomatiki
 
-in plot_vocal_and_perc_separation.py i experiment with librosa and i separated the vocals, the perccussion and the rest (harmonic part meaning guitar,bass, piano etc.) from a file.wav into a spectogram.
+in plot_vocal_and_perc_separation.py i experimented with librosa and i separated the vocals, the perccussion and the rest (harmonic part meaning guitar,bass, piano etc.) from a track.wav into a spectogram.
 
 
 bibliography 
