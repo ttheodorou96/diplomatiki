@@ -1,6 +1,6 @@
 # diplomatiki
 
-in plot_vocal_and_perc_separation.py i experimented with librosa and i separated the vocals, the perccussion and the rest (harmonic part meaning guitar,bass, piano etc.) from a track.wav into a spectogram.
+in plot_vocal_and_perc_separation.py i experimented with librosa and i separated the vocals, the perccussion and the rest (harmonic part meaning guitar,bass, piano etc.) from a track.wav into a spectogram. In perc_harmonic_and_voice_separation.ipynb i applied istft into the spectograms to listen to the isolated stems. (runs in google collabratory) 
 
 
 bibliography 
