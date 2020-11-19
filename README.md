@@ -1,6 +1,6 @@
 # diplomatiki
 
-Decomposotion tool: 
+Decomposition tool: 
 
 Ο χρήστης εισάγει ένα αρχείο .mp3/wav, το σύστημα αρχικά εμφανίζει το spectrogram του αρχείου και στην συνέχεια χωρίζει το μουσικό κομμάτι που έχει εισαχθεί απο τον χρήστη σε components. 
 
