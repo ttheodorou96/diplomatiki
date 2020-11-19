@@ -1,5 +1,13 @@
 # diplomatiki
 
+Decomposotion tool: 
+
+Ο χρήστης εισάγει ένα αρχείο .mp3/wav, το σύστημα αρχικά εμφανίζει το spectrogram του αρχείου και στην συνέχεια χωρίζει το μουσικό κομμάτι που έχει εισαχθεί απο τον χρήστη σε components. 
+
+Τα components που προκύπτουν απο το σύστημα μας είναι drums, harmonic part, acapella. 
+
+
+
 
 bibliography
 
