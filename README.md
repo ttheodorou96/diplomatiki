@@ -27,3 +27,8 @@ https://users.cs.northwestern.edu/~zra446/doc/Rafii-Pardo%20-%20Music-Voice%20Se
 [4] Vocal Separation Using Nearest Neighbours and Median Filtering
 Derry Fitzgerald 
 https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1086&context=argcon
+
+[5] Separation of Instrument Sounds using
+Non-negative Matrix Factorization with Spectral
+Envelope Constraints
+https://arxiv.org/pdf/1801.04081.pdf
