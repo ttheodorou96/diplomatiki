@@ -32,3 +32,6 @@ https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1086&context=argcon
 Non-negative Matrix Factorization with Spectral
 Envelope Constraints
 https://arxiv.org/pdf/1801.04081.pdf
+
+[6] librosa: Audio and Music Signal Analysis in Python
+https://brianmcfee.net/papers/scipy2015_librosa.pdf
