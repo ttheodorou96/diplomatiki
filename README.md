@@ -33,9 +33,9 @@ Non-negative Matrix Factorization with Spectral
 Envelope Constraints
 https://arxiv.org/pdf/1801.04081.pdf
 
-[6] Librosa Examples 
-https://github.com/librosa/librosa/tree/main/examples
-
 [6] librosa: Audio and Music Signal Analysis in Python
 
 https://brianmcfee.net/papers/scipy2015_librosa.pdf
+
+[7] Librosa Examples 
+https://github.com/librosa/librosa/tree/main/examples
