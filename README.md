@@ -1,10 +1,22 @@
 # README
 Decomposition tool: 
 
-Ο χρήστης εισάγει ένα αρχείο .mp3/wav, το σύστημα αρχικά εμφανίζει το spectrogram του αρχείου και στην συνέχεια χωρίζει το μουσικό κομμάτι που έχει εισαχθεί απο τον χρήστη σε components. 
+Ο χρήστης εισάγει στο directory "song_input" όσα αρχεία .mp3/wav επιθυμεί, το σύστημα αρχικά εμφανίζει το spectrogram του αρχείου
+(ο χρήστης επιλέγει ποιό κομμάτι απο αυτά που υπάρχουν στο directory θα χειριστεί) και στην συνέχεια χωρίζει το μουσικό κομμάτι που έχει εισαχθεί απο τον χρήστη σε stems/components. Τα components αυτά είναι:
+- Harmonic Part
+- Percussive Part 
+- Bass Part
 
-Τα components που προκύπτουν απο το σύστημα μας είναι drums, harmonic part, acapella. 
+Στην συνέχεια εμφανίζει το spectrogram των τριών αυτών components 
+και τέλος η κονσόλα ενημερώνει τον χρήστη τα directories που έχουν αποθηκευτεί τα stems μας (/output_song/out_harm, /output_song/out_perc, /output_song/out_bass) σε μορφή .wav.
 
+Το παραπάνω σύστημα έχει αναπτυχθεί σε γλώσσα python και σε πρόγραμμα επεξεργασίας Visual Studio Code. Είναι βασισμένο σε αντικειμενοστραφή προγραμματισμό με χρήση συναρτήσεων και κλάσεων. 
+
+Για εκτέλεση τρέχεις το __main__.py αρχείο
+
+ 
+Python 3.6.12 :: Anaconda, Inc.
+conda 4.8.3
 
 
 
