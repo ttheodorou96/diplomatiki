@@ -16,6 +16,7 @@ Decomposition tool:
 
  
 Python 3.6.12 :: Anaconda, Inc.
+
 conda 4.8.3
 
 
