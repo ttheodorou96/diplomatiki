@@ -61,7 +61,7 @@ def main():
     '''
     #my_objects[0].plot_input_spectrogram()
     #my_objects[1].harm_perc_bass_plot_spec()
-    my_objects[0].save_output()
+    my_objects[1].save_output()
 
 if __name__ == "__main__":
     main()
