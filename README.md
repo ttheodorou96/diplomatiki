@@ -2,13 +2,14 @@
 Decomposition tool: 
 
 Ο χρήστης εισάγει στο directory "song_input" όσα αρχεία .mp3/wav επιθυμεί, το σύστημα αρχικά εμφανίζει το spectrogram του αρχείου
-(ο χρήστης επιλέγει ποιό κομμάτι απο αυτά που υπάρχουν στο directory θα χειριστεί) και στην συνέχεια χωρίζει το μουσικό κομμάτι που έχει εισαχθεί απο τον χρήστη σε stems/components. Τα components αυτά είναι:
-- Harmonic Part
+(ο χρήστης επιλέγει ποιό κομμάτι απο αυτά που υπάρχουν στο directory θα χειριστεί) και στην συνέχεια χωρίζει το μουσικό κομμάτι που έχει εισαχθεί απο τον χρήστη σε 4 stems/components. Τα components αυτά είναι:
+- Harmonic Part (without Bass)
 - Percussive Part 
 - Bass Part
+- Acapella Part
 
-Στην συνέχεια εμφανίζει το spectrogram των τριών αυτών components 
-και τέλος η κονσόλα ενημερώνει τον χρήστη τα directories που έχουν αποθηκευτεί τα stems μας (/output_song/out_harm, /output_song/out_perc, /output_song/out_bass) σε μορφή .wav.
+Στην συνέχεια εμφανίζει το spectrogram των 4 αυτών components 
+και τέλος το πρόγραμμα αποθηκέυει τα stems και η κονσόλα ενημερώνει τον χρήστη τα σχετικά directories που έχουν αποθηκευτεί τα stems μας (/output_song/out_harm, /output_song/out_perc, /output_song/out_bass) σε μορφή .wav.
 
 Το παραπάνω σύστημα έχει αναπτυχθεί σε γλώσσα python και σε πρόγραμμα επεξεργασίας Visual Studio Code. Είναι βασισμένο σε αντικειμενοστραφή προγραμματισμό με χρήση συναρτήσεων και κλάσεων. 
 
